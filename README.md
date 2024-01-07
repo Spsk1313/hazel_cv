@@ -7,7 +7,7 @@ A CV project about a scientist and public speaker built with HTML and CSS. Explo
 The project consists of the following key files:
 
 - `index.html`: The HTML file defining the structure of the CV.
-- `style.css`: The CSS file providing styling for a polished and visually appealing presentation.
+- `app.css`: The CSS file providing styling for a polished and visually appealing presentation.
 
 ## Features
 
